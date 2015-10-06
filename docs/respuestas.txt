@@ -3,3 +3,8 @@ Trabajo en equipo con git
 ¿Cúal es la diferencia entre compilación e interpretación?
 Compìlación: Traducir un programa escrito en un lenguaje de programación a otro lenguaje de programación como puede ser el lenguaje máquina o un lenguaje intermedio como el bytecode.
 Interpretación: Realizar la traducciónde un programa escrito en algun lenguaje de programación a medida que sea necesaria, típicamente, instrucción por instrucción, y normalmente no guardan el resultado de dicha traducción.
+
+¿Cúal es la principal diferencia entre el contenido del fichero helloWorld.sh y helloWord.rb?
+El lenguage con el que están escrito, .rb es de ruby y .sh es de bash.
+¿Qué significado tiene la primera línea del fichero helloWorld.sh?
+Especificar la ruta en la que encuentra el intérprete.
